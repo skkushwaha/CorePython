@@ -1,0 +1,2 @@
+tup = ()
+print(type(tup))
