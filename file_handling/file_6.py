@@ -1,6 +1,6 @@
 import os
 
-file_path = r'D:\pynative\reports\profit.txt'
+file_path = r'D :\pynative\reports\profit.txt'
 if os.path.exists(file_path):
     print('file already exists')
 else:
