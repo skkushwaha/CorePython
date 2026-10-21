@@ -1,0 +1,5 @@
+fp = open('demo_notes_2.txt','w')
+fp.write('Hello World')
+fp = open('demo_notes_2.txt','r')
+print(fp.read())
+fp.close()
