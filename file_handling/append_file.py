@@ -1,0 +1,5 @@
+fp = open("demo_notes_2.txt", 'a')
+fp.write("\nThis python file handling practice in pycharm")
+fp = open('demo_notes_2.txt', 'r')
+print(fp.read())
+fp.close()
