@@ -8,4 +8,4 @@ while num > 0:
 if rev == num_value:
     print("Number is Palindrome")
 else:
-    print("Number is not Palindrome")
+    print("Number is not a Palindrome")
